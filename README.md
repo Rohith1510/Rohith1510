@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="/assests/4giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohith1510&label=Profile%20views&color=0e75b6&style=flat" alt="Rohith1510" /> </p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/rohithpranavbala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" height="30" />
