@@ -15,18 +15,15 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://rithik2211.github.io/Rithik_Portfolio/" target="_blank"> My Portfolio </a>
   
-- 📫 How to reach me rithikpranao22@gmail.com
+- 📫 How to reach me rohithpranav567@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Rithik2211" target="_blank">
+<a href="https://github.com/Rohith1510" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/rithik-pranao-61221b18b/" target="blank">
+<a href="https://www.linkedin.com/in/rohithpranavbala/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithik" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/rithik_pranao_22/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rithik's Instagram" height="30" width="40" />
 </a>
 </p>
 
