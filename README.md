@@ -1,9 +1,9 @@
-[![MasterHead](/assests/banner1.png)](https://www.linkedin.com/in/rohithpranavbala/)
+[![MasterHead](/assests/Banner.jpg)](https://www.linkedin.com/in/rohithpranavbala/)
 
 <h3 align="center">I'm a Web3 developer skilled in Solidity, React.js and JavaScript I'm passionate about blockchain technology and its potential for a more decentralized and user-centric future. Let's connect and collaborate on innovative Web3 projects.
 </h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
+<img align="right" alt="Coding" width="400" height="300" src="/assests/4giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik2211&label=Profile%20views&color=0e75b6&style=flat" alt="rithik2211" /> </p>
 
