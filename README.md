@@ -1,4 +1,4 @@
-[![MasterHead](/assests/banner1.png)](https://www.linkedin.com/in/rithik-pranao-61221b18b/)
+[![MasterHead](/assests/banner1.png)](https://www.linkedin.com/in/rohithpranavbala/)
 
 <h3 align="center">I'm a Web3 developer skilled in Solidity, React.js and JavaScript I'm passionate about blockchain technology and its potential for a more decentralized and user-centric future. Let's connect and collaborate on innovative Web3 projects.
 </h3>
