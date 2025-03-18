@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://rithik2211.github.io/Rithik_Portfolio/" target="_blank"> My Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://rohithpranavbala.vercel.app/" target="_blank"> My Portfolio </a>
   
 - 📫 How to reach me rohithpranav567@gmail.com
 
