@@ -1,6 +1,6 @@
 [![MasterHead](/assests/Banner.jpg)](https://www.linkedin.com/in/rohithpranavbala/)
 
-<h3 align="center">I'm an undergraduate Computer Science Engineering student and a passionate developer skilled in React.js, Python and JavaScript. I'm deeply interested in emerging technologies like Blockchain, AI, and Web Development, and I love building innovative solutions that make an impact. Always open to learning, connecting, and collaborating on exciting tech projects!
+<h3 align="center">I'm an undergrad Computer Science Engineering student and a passionate developer skilled in React.js, Python and JavaScript. I'm deeply interested in emerging technologies like Blockchain, AI, and Web Development, and I love building innovative solutions that make an impact. Always open to learning, connecting, and collaborating on exciting tech projects!
 </h3>
 
 <img align="right" alt="Coding" width="400" height="300" src="/assests/4giphy.gif">
